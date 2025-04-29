@@ -59,8 +59,19 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
+![Screenshot 2025-04-29 094959](https://github.com/user-attachments/assets/a350db37-6234-4b02-8839-12f940ddf925)
+
+
 ## PROGRAM
 
+![Screenshot 2025-04-29 095025](https://github.com/user-attachments/assets/385604e5-ed41-4028-8f0e-a870f561f283)
+
+
+
 ## OUTPUT
+![Screenshot 2025-04-29 095045](https://github.com/user-attachments/assets/8083239b-8685-4732-bb74-2d628cdf1bdc)
+
 
 ## RESULT
+
+The code tells the Arduino to turn the LED on as long as the button is being pressed (completing the circuit), and to keep the LED off when the button is not being pressed
